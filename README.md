@@ -91,3 +91,21 @@ Créez vos propres histoires animées, jeux et animations en assemblant des bloc
 <br>
 minale.
 <br>
+
+## Stellarium Web (en anglais)
+<br>
+<img src="images/stellarium-web.png" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://stellarium-web.org/">Accéder au site</a>
+<br>
+Interface en anglais. Un planétarium complet dans le navigateur : le ciel s'affiche en temps réel tel qu'on le verrait à l'œil nu, aux jumelles ou au télescope. Recherchez une planète ou une constellation, avancez dans le temps pour suivre une éclipse ou le lever des astres. Gratuit, sans installation. Tout public.
+<br>
+
+## Solar System Scope (en anglais)
+<br>
+<img src="https://www.solarsystemscope.com/images/sss_og.jpg" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://www.solarsystemscope.com/">Accéder au site</a>
+<br>
+Interface en anglais. Explorez en 3D le Système solaire, les planètes, leurs lunes et le ciel étoilé, avec les positions réelles des astres. Accélérez le temps, zoomez sur chaque planète et découvrez ses caractéristiques. Gratuit et jouable directement dans le navigateur. À partir de 8 ans.
+<br>
