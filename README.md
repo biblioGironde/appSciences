@@ -89,12 +89,5 @@ Labyrinthe, oiseau, tortue, musique, film : une série de jeux pour apprendre à
 <br>
 Créez vos propres histoires animées, jeux et animations en assemblant des blocs de code colorés. L'outil de référence pour s'initier à la programmation, utilisé dans les écoles du monde entier. Conçu par le MIT. À partir de 8 ans.
 <br>
-
-## Castor informatique
-<br>
-<img src="https://castor-informatique.fr/img/castor_small.png" alt="Illustration" width="300">
-<br>
-&rarr; <a href="https://castor-informatique.fr/">Accéder au site</a>
-<br>
-Le concours Castor fait découvrir l'informatique à travers des énigmes interactives : logique, algorithmes, codage de l'information… Les sujets des années précédentes restent accessibles en ligne pour s'entraîner. Gratuit et sans connaissances préalables. Organisé par France-ioi et Inria. Du CM1 à la terminale.
+minale.
 <br>
