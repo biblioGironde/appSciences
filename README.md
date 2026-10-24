@@ -56,7 +56,7 @@ Déplacez le Soleil, la Terre, la Lune ou une station spatiale et observez comme
 
 ## ESA Kids : les jeux de Paxi
 <br>
-<img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/04/paxigames_solarsystem/21942742-1-eng-GB/Paxigames_solarsystem.jpg" alt="Illustration" width="300">
+<img src="https://play-lh.googleusercontent.com/NSJ3aPRvJTGAnl0Uw8QOEX3wXGsyNlQMjfz1JyQouw0-yDDMuJNd1MGQ3y0IKwRb_awLfKofPbVhBi5YftUsTw" alt="Illustration" width="300">
 <br>
 &rarr; <a href="https://kids.esa.int/fr/category/games/">Accéder au site</a>
 <br>
@@ -65,7 +65,7 @@ Avec Paxi, la mascotte extraterrestre de l'Agence spatiale européenne, atterris
 
 ## Mission : Astronaute
 <br>
-<img src="images/mission-astronaute.png" alt="Illustration" width="300">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTpoqiec3x6z4Pfi-OUyGSQclbvXv6GK3B-vwLkHlPjFRfHNBidHNDJSw&s=10" alt="Illustration" width="300">
 <br>
 &rarr; <a href="https://ma.picnicplatform.com/">Accéder au site</a>
 <br>
