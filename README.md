@@ -94,7 +94,7 @@ minale.
 
 ## Stellarium Web (en anglais)
 <br>
-<img src="images/stellarium-web.png" alt="Illustration" width="300">
+<img src="https://campus.recit.qc.ca/pluginfile.php/245643/mod_page/content/54/stellarium.jpg?time=1758984329892" alt="Illustration" width="300">
 <br>
 &rarr; <a href="https://stellarium-web.org/">Accéder au site</a>
 <br>
