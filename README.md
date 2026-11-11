@@ -109,3 +109,8 @@ Interface en anglais. Un planétarium complet dans le navigateur : le ciel s'aff
 <br>
 Interface en anglais. Explorez en 3D le Système solaire, les planètes, leurs lunes et le ciel étoilé, avec les positions réelles des astres. Accélérez le temps, zoomez sur chaque planète et découvrez ses caractéristiques. Gratuit et jouable directement dans le navigateur. À partir de 8 ans.
 <br>
+
+## Licences
+
+- **Textes de présentation** : [Licence Ouverte Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/), réutilisation libre, y compris commerciale, avec mention de la source « biblio.gironde ».
+- Les applications et sites présentés, ainsi que leurs images, appartiennent à leurs éditeurs.
